@@ -15,6 +15,12 @@
             "title":"GitHub",
             "description":"Projetos em que trabalho.",
             "url":"https://github.com/oalexandrefreire"
+        },
+        {
+            "key":"dev",
+            "title":"Dev",
+            "description":"Meu perfil na rede social dev.to",
+            "url":"https://dev.to/alexandrefreire"
         }
     ]
 }
