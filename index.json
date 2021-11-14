@@ -1,6 +1,7 @@
 {
     "name":"Alexandre Freire",
     "headline":"Desenvolvedor C# .NET",
+    "background_color":"beige",
     "buttons":[
         {
             "key":"linkedin",
