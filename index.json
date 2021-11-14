@@ -1,14 +1,16 @@
 {
     "name":"Alexandre Freire",
-    "short_description":"Desenvolvedor C# .NET",
+    "headline":"Desenvolvedor C# .NET",
     "buttons":[
         {
             "key":"linkedin",
+            "title":"Meu Linkedin",
             "description":"Conheça meu perfil!",
             "url":"https://www.linkedin.com/in/oalexandrefreire/"
         },
         {
             "key":"github",
+            "title":"GitHub",
             "description":"Projetos em que trabalho.",
             "url":"https://github.com/oalexandrefreire"
         }
