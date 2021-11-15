@@ -6,21 +6,27 @@
     "buttons":[
         {
             "key":"linkedin",
-            "title":"Meu Linkedin",
-            "description":"Conheça meu perfil!",
+            "title":"Linkedin",
+            "description":"This is my profile!",
             "url":"https://www.linkedin.com/in/oalexandrefreire/"
         },
         {
             "key":"github",
             "title":"GitHub",
-            "description":"Projetos em que trabalho.",
+            "description":"My open projects.",
             "url":"https://github.com/oalexandrefreire"
         },
         {
             "key":"dev",
             "title":"Dev",
-            "description":"Meu perfil na rede social dev.to",
+            "description":"The devs social network dev.to",
             "url":"https://dev.to/alexandrefreire"
+        },
+        {
+            "key":"microsoft",
+            "title":"Nuget Packages",
+            "description":"My nuget packages.",
+            "url":"https://www.nuget.org/profiles/alexandrefreire"
         }
     ]
 }
