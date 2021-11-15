@@ -21,12 +21,6 @@
             "title":"Dev",
             "description":"The devs social network dev.to",
             "url":"https://dev.to/alexandrefreire"
-        },
-        {
-            "key":"microsoft",
-            "title":"Nuget Packages",
-            "description":"My nuget packages.",
-            "url":"https://www.nuget.org/profiles/alexandrefreire"
         }
     ]
 }
