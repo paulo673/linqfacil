@@ -1,26 +1,18 @@
 {
-    "name":"Alexandre Freire",
-    "headline":"Desenvolvedor C# .NET",
-    "url_avatar":"https://avatars.githubusercontent.com/u/25771796?v=4",
+    "name":"Paulo Barbosa",
     "background_color":"beige",
     "buttons":[
         {
             "key":"linkedin",
             "title":"Linkedin",
             "description":"This is my profile!",
-            "url":"https://www.linkedin.com/in/oalexandrefreire/"
+            "url":"https://www.linkedin.com/in/paulo673/"
         },
         {
             "key":"github",
             "title":"GitHub",
             "description":"My open projects.",
-            "url":"https://github.com/oalexandrefreire"
-        },
-        {
-            "key":"dev",
-            "title":"Dev",
-            "description":"The devs social network dev.to",
-            "url":"https://dev.to/alexandrefreire"
+            "url":"https://github.com/paulo673"
         }
     ]
 }
